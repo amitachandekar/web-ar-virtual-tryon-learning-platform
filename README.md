@@ -55,3 +55,9 @@ View Paper
 ## 👩‍💻 Authors
 - Amita Chandekar  
 - Team Members
+
+ 
+## 📄 Research Publication
+📌 This project has been published in IJCRT (2025)
+
+🔗 [View Research Paper](./research-paper/web-ar-research-paper-ijcrt-2025.pdf)
