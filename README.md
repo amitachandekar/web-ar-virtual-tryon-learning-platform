@@ -1,4 +1,5 @@
 # 🌐 Web AR Virtual Try-On & Learning Platform
+Published Research | WebAR Platform | Phase 2 in Progress
 
 ## 📌 Overview
 A browser-based Augmented Reality platform integrating Virtual Try-On and Interactive Learning. This project is developed in multiple phases to progressively enhance features and scalability.
