@@ -59,10 +59,13 @@ View Paper
 
  
 ## 📄 Research Publication
+
 📌 This project has been published in IJCRT (2025)
 
-🔗 [View Research Paper](./research-paper/web-ar-research-paper-ijcrt-2025.pdf
+🔗 [View Research Paper](./Web AR Research Paper IJCRT.pdf)
 
+---
 
-## 📜 Certificate
-🔗 [View Certificate](./certificates/your-certificate.pdf)
+## 🏆 Certificate
+
+📜 [View Certificate](./Publication-certificate.jpeg
