@@ -52,10 +52,6 @@ View Paper
 
 ---
 
-## Author
- * Amita Chandekar 
- * Team Members
-
 ## 👩‍💻 Authors
 - Amita Chandekar  
 - Team Members
